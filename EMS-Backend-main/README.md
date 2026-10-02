@@ -107,9 +107,3 @@ To run the entire stack (Database, Backend, and Frontend) with a single command,
 | **POST** | `/api/v1/employees` | Create a new employee |
 | **PUT** | `/api/v1/employees/{id}` | Update an existing employee |
 | **DELETE** | `/api/v1/employees/{id}` | Delete an employee |
-
-### 👨💻 Author
-
-##### Rajnish Chauhan
-* B.Tech Computer Science & Engineering, Neelkanth Institute of Technology
-* Focus: Backend Development, Software Architecture, REST APIs
